@@ -1,5 +1,7 @@
 ﻿
 
-Console.WriteLine( "Este programa solo tiene interfaz de consola." );
-Console.WriteLine( "Hola desde Rider, ¡¡probando Git!!" );
-Console.WriteLine( "Parece que funciona y es una herramienta útil." );
+using Prueba_Git;
+
+Consola.Print( "Este programa solo tiene interfaz de consola." );
+Consola.Print( "Hola desde Rider, ¡¡probando Git!!" );
+Consola.Print( "Parece que funciona y es una herramienta útil." );
